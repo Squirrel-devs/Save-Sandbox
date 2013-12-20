@@ -1,0 +1,14 @@
+{
+    "name": "MyApp",
+    "description": "My $1.000.000 app",
+    "author": "squirrel",
+    "version": "0.0.1",
+    "main": "./autosave",
+    "dependencies": {
+        "q": "0.9.7",
+        "string": "1.7.0"
+    },
+    "devDependencies": {
+    },
+    "engine": "node >= 0.6.6"
+}
